@@ -2,7 +2,7 @@ Package.describe({
   name: 'jjman505:wheelzoom',
   version: '1.0.0',
   summary: 'A wrapper for the wheelzoom.js library',
-  // git: '',
+  git: 'https://github.com/jjman505/meteor-wheelzoom',
   documentation: 'README.md'
 });
 
