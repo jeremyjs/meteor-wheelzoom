@@ -1,7 +1,7 @@
 Package.describe({
   name: 'jjman505:wheelzoom',
   version: '1.0.0',
-  summary: 'A wrapper for the wheelzoom.js library',
+  summary: 'Super easy scroll-wheel zooming for client-side images',
   git: 'https://github.com/jjman505/meteor-wheelzoom',
   documentation: 'README.md'
 });
